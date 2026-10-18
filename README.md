@@ -1,4 +1,4 @@
-# SmogSense_Karachi_Air_Quality
+SmogSense: Karachi Air Quality Analysis
 Project Overview
 
 SmogSense is an exploratory data analysis project that examines daily PM2.5 air-quality measurements in Karachi, Pakistan, from October 2016 to December 2024. The goal is to identify monthly and yearly pollution patterns using Python data-analysis and visualization tools.
